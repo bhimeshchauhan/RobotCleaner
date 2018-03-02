@@ -1,0 +1,6 @@
+C:\Users\Vaibhav Malhotra\Desktop\bhimesh.cint.app\bhimesh.cint.app\bin\Debug\bhimesh.cint.app.exe.config
+C:\Users\Vaibhav Malhotra\Desktop\bhimesh.cint.app\bhimesh.cint.app\bin\Debug\bhimesh.cint.app.exe
+C:\Users\Vaibhav Malhotra\Desktop\bhimesh.cint.app\bhimesh.cint.app\bin\Debug\bhimesh.cint.app.pdb
+C:\Users\Vaibhav Malhotra\Desktop\bhimesh.cint.app\bhimesh.cint.app\obj\Debug\bhimesh.cint.app.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav Malhotra\Desktop\bhimesh.cint.app\bhimesh.cint.app\obj\Debug\bhimesh.cint.app.exe
+C:\Users\Vaibhav Malhotra\Desktop\bhimesh.cint.app\bhimesh.cint.app\obj\Debug\bhimesh.cint.app.pdb

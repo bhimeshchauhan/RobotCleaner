@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bhimesh.cint.app", "bhimesh.cint.app\bhimesh.cint.app.csproj", "{B4A2CF3D-A59E-49C3-AA54-3285EFE4AAC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bhimesh.cint.app.tests", "bhimesh.cint.app.tests\bhimesh.cint.app.tests.csproj", "{B2841AF0-2DAD-4F4D-98A4-506DB35752EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A2CF3D-A59E-49C3-AA54-3285EFE4AAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A2CF3D-A59E-49C3-AA54-3285EFE4AAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A2CF3D-A59E-49C3-AA54-3285EFE4AAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A2CF3D-A59E-49C3-AA54-3285EFE4AAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2841AF0-2DAD-4F4D-98A4-506DB35752EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2841AF0-2DAD-4F4D-98A4-506DB35752EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2841AF0-2DAD-4F4D-98A4-506DB35752EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2841AF0-2DAD-4F4D-98A4-506DB35752EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD685F29-A93B-49F2-A35B-C7A747543E61}
+	EndGlobalSection
+EndGlobal
