@@ -1,5 +1,5 @@
 # Robot Cleaner
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{bhimeshchauhan}/{RobotCleaner})
+[![Build Status](https://travis-ci.org/bhimeshchauhan/RobotCleaner.png?branch=master)](https://travis-ci.org/bhimeshchauhan/RobotCleaner)
 
 .NET Console App
 
