@@ -1,6 +1,7 @@
 # Robot Cleaner
+[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{bhimeshchauhan}/{RobotCleaner})
 
-One Paragraph of project description goes here
+.NET Console App
 
 ## Background
 
@@ -20,7 +21,7 @@ To run test use Nunit test.
 
 ## Authors
 
-* **Bhimesh Chauhan** - *Initial work* - [PurpleBooth](https://bhimeshchauhan.github.io/)
+* **Bhimesh Chauhan** - *Initial work* - [Portfolio](https://bhimeshchauhan.github.io/)
 
 ## License
 
